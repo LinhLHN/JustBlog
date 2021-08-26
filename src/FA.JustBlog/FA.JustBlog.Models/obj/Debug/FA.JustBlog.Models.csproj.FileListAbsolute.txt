@@ -1,0 +1,16 @@
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.dll.config
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.pdb
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\EntityFramework.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\EntityFramework.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.AssemblyReference.cache
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.CoreCompileInputs.cache
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.CopyComplete
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.pdb

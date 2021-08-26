@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.Models", "FA.JustBlog.Models\FA.JustBlog.Models.csproj", "{14812EA8-C4D6-4F57-9E4F-D91DDEA3AC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.Data", "FA.JustBlog.Data\FA.JustBlog.Data.csproj", "{9A26B7A5-5487-4A2E-83D0-074B3CC7F6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.Common", "FA.JustBlog.Common\FA.JustBlog.Common.csproj", "{9C8F0A2A-D1DE-48CA-84BB-EA48DA786B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.Services", "FA.JustBlog.Services\FA.JustBlog.Services.csproj", "{DE8E65BA-A528-4AC8-AE01-074848AFCC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.MVC", "FA.JustBlog.MVC\FA.JustBlog.MVC.csproj", "{41F3A6B7-BD84-4537-A062-D9D098502AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA.JustBlog.WebAPI", "FA.JustBlog.WebAPI\FA.JustBlog.WebAPI.csproj", "{F6EE88E6-4230-4E22-A3CD-4E3BE0C1CB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14812EA8-C4D6-4F57-9E4F-D91DDEA3AC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14812EA8-C4D6-4F57-9E4F-D91DDEA3AC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14812EA8-C4D6-4F57-9E4F-D91DDEA3AC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14812EA8-C4D6-4F57-9E4F-D91DDEA3AC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A26B7A5-5487-4A2E-83D0-074B3CC7F6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A26B7A5-5487-4A2E-83D0-074B3CC7F6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A26B7A5-5487-4A2E-83D0-074B3CC7F6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A26B7A5-5487-4A2E-83D0-074B3CC7F6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8F0A2A-D1DE-48CA-84BB-EA48DA786B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8F0A2A-D1DE-48CA-84BB-EA48DA786B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8F0A2A-D1DE-48CA-84BB-EA48DA786B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8F0A2A-D1DE-48CA-84BB-EA48DA786B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8E65BA-A528-4AC8-AE01-074848AFCC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8E65BA-A528-4AC8-AE01-074848AFCC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8E65BA-A528-4AC8-AE01-074848AFCC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8E65BA-A528-4AC8-AE01-074848AFCC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F3A6B7-BD84-4537-A062-D9D098502AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F3A6B7-BD84-4537-A062-D9D098502AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F3A6B7-BD84-4537-A062-D9D098502AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F3A6B7-BD84-4537-A062-D9D098502AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EE88E6-4230-4E22-A3CD-4E3BE0C1CB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EE88E6-4230-4E22-A3CD-4E3BE0C1CB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EE88E6-4230-4E22-A3CD-4E3BE0C1CB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EE88E6-4230-4E22-A3CD-4E3BE0C1CB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECA4050-0B71-4186-AC60-CDD9479C34F1}
+	EndGlobalSection
+EndGlobal

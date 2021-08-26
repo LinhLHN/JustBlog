@@ -1,0 +1,12 @@
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.dll.config
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.pdb
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\EntityFramework.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\EntityFramework.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.AssemblyReference.cache
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.CoreCompileInputs.cache
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.CopyComplete
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.dll
+E:\New folder\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.pdb
